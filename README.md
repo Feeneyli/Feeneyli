@@ -16,7 +16,7 @@
 
 - 📫 How to reach me:
   * GitHub: @Feeneyli
-  * Location: Arizona State University (ASU)
+  * Location: Arizona State University (ASU) Polytechnic Campus
   * Major: Bioinformatics
 
 - 😄 Pronouns: He/Him
